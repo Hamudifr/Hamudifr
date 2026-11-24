@@ -1,8 +1,8 @@
 <p align="center">
-  <strong>👋 Hi, I'm Hamudifr</strong>
+  <strong>👋 Hamudifr</strong>
 </p>
 
-<h1 align="center">Gojo Satoru Gallery</h1>
+<h1 align="center">Sigma</h1>
 
 <p align="center">
   <img src="https://media1.tenor.com/m/6QqupmFFausAAAAd/satoru-gojo.gif" alt="Satoru Gojo" width="48%" />
