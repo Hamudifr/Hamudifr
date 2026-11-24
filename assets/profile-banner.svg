@@ -1,38 +1,49 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
-  <title id="title">Hamudifr, software and AI</title>
-  <desc id="desc">A minimal midnight-blue technical banner with cyan orbital geometry and a subtle grid.</desc>
-  <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#080d18"/>
-      <stop offset="1" stop-color="#111d31"/>
-    </linearGradient>
-    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#67e8f9"/>
-      <stop offset="1" stop-color="#38bdf8"/>
-    </linearGradient>
-    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
-      <path d="M32 0H0V32" fill="none" stroke="#8ba3c7" stroke-opacity=".09" stroke-width="1"/>
-    </pattern>
-    <radialGradient id="glow">
-      <stop offset="0" stop-color="#22d3ee" stop-opacity=".22"/>
-      <stop offset="1" stop-color="#22d3ee" stop-opacity="0"/>
-    </radialGradient>
-  </defs>
-  <rect width="1200" height="320" rx="22" fill="url(#bg)"/>
-  <rect width="1200" height="320" rx="22" fill="url(#grid)"/>
-  <circle cx="960" cy="155" r="220" fill="url(#glow)"/>
-  <g fill="none" stroke="url(#accent)" stroke-width="1.5" opacity=".8">
-    <circle cx="960" cy="155" r="94"/>
-    <ellipse cx="960" cy="155" rx="150" ry="54" transform="rotate(-28 960 155)"/>
-    <ellipse cx="960" cy="155" rx="150" ry="54" transform="rotate(48 960 155)"/>
-    <path d="M960 30V280M835 155H1085" opacity=".25"/>
-  </g>
-  <circle cx="1067" cy="91" r="5" fill="#67e8f9"/>
-  <circle cx="872" cy="217" r="4" fill="#38bdf8"/>
-  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
-    <text x="86" y="120" fill="#67e8f9" font-size="15" letter-spacing="5">PERSONAL ENGINEERING SPACE</text>
-    <text x="82" y="190" fill="#f1f5f9" font-size="64" font-weight="700" letter-spacing="1">HAMUDIFR</text>
-    <path d="M86 216H390" stroke="#38bdf8" stroke-width="3"/>
-    <text x="86" y="254" fill="#a8b8ce" font-size="18" letter-spacing="3">SOFTWARE  /  AUTOMATION  /  AI</text>
-  </g>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="500" viewBox="0 0 1600 500" role="img" aria-labelledby="title desc">
+<title id="title">Hamudifr | Build beyond the horizon</title>
+<desc id="desc">A cinematic midnight world of a colossal violet moon, floating citadel, distant mountains, orbital light trails and a lone explorer.</desc>
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#050713"/><stop offset=".48" stop-color="#10102c"/><stop offset="1" stop-color="#170d2b"/></linearGradient>
+  <radialGradient id="moon"><stop stop-color="#f0eaff"/><stop offset=".55" stop-color="#b9a4ff"/><stop offset=".82" stop-color="#8063d8"/><stop offset="1" stop-color="#473178"/></radialGradient>
+  <linearGradient id="violet" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#6d42d8" stop-opacity="0"/><stop offset=".5" stop-color="#b58cff"/><stop offset="1" stop-color="#55d8ff" stop-opacity="0"/></linearGradient>
+  <linearGradient id="city" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#34305e"/><stop offset="1" stop-color="#080b1b"/></linearGradient>
+  <linearGradient id="floor" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#0a1022"/><stop offset=".5" stop-color="#251743"/><stop offset="1" stop-color="#080b1a"/></linearGradient>
+  <filter id="glow"><feGaussianBlur stdDeviation="7" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <filter id="soft"><feGaussianBlur stdDeviation="22"/></filter>
+  <pattern id="stars" width="173" height="131" patternUnits="userSpaceOnUse"><circle cx="13" cy="19" r="1.1" fill="#fff" opacity=".8"/><circle cx="77" cy="46" r=".8" fill="#cbbaff"/><circle cx="142" cy="22" r="1.4" fill="#fff" opacity=".7"/><circle cx="112" cy="103" r=".9" fill="#9edcff"/><circle cx="36" cy="117" r=".7" fill="#fff"/></pattern>
+</defs>
+<rect width="1600" height="500" fill="url(#sky)"/>
+<rect width="1600" height="500" fill="url(#stars)"/>
+<ellipse cx="1160" cy="195" rx="430" ry="230" fill="#6c3bd4" opacity=".16" filter="url(#soft)"/>
+<circle cx="1165" cy="154" r="125" fill="url(#moon)" opacity=".95"/>
+<circle cx="1165" cy="154" r="137" fill="none" stroke="#c4a8ff" stroke-width="2" opacity=".45" filter="url(#glow)"/>
+<path d="M1024 170 Q1165 10 1306 170 M1000 196 Q1165 38 1330 196" fill="none" stroke="#b995ff" stroke-width="1.5" opacity=".5"/>
+<g fill="none" stroke="#9c76ff" opacity=".65"><ellipse cx="1155" cy="164" rx="285" ry="74" transform="rotate(-17 1155 164)" stroke-width="1.5"/><ellipse cx="1155" cy="164" rx="360" ry="118" transform="rotate(12 1155 164)" stroke-width="1"/></g>
+<path d="M0 330 L130 260 220 314 345 220 475 316 610 246 755 326 900 260 1020 310 1160 220 1290 300 1420 245 1600 325V500H0Z" fill="#11132e"/>
+<path d="M0 365 L170 302 300 360 450 292 610 374 790 300 930 365 1090 280 1260 360 1430 296 1600 360V500H0Z" fill="#090e20"/>
+<g fill="url(#city)" stroke="#51427e" stroke-width="1">
+ <path d="M80 352V270H105V236H126V270H150V352Z"/><path d="M170 355V290H195V252H216V290H238V355Z"/>
+ <path d="M300 360V275H324V225H345V275H370V360Z"/><path d="M410 360V305H438V260H456V305H480V360Z"/>
+ <path d="M610 368V290H635V246H657V290H680V368Z"/><path d="M730 365V300H752V262H772V300H795V365Z"/>
+ <path d="M920 360V284H944V220H966V284H990V360Z"/><path d="M1050 360V300H1072V255H1095V300H1117V360Z"/>
+ <path d="M1320 355V275H1345V230H1368V275H1390V355Z"/><path d="M1450 360V292H1475V250H1498V292H1520V360Z"/>
+</g>
+<g fill="#a88aff" opacity=".8" filter="url(#glow)"><rect x="112" y="282" width="3" height="23"/><rect x="337" y="280" width="3" height="28"/><rect x="650" y="296" width="3" height="25"/><rect x="956" y="286" width="3" height="27"/><rect x="1358" y="288" width="3" height="26"/></g>
+<path d="M0 398 Q340 350 610 410 T1160 395 T1600 382V500H0Z" fill="url(#floor)"/>
+<path d="M0 410 Q400 370 800 418 T1600 398" fill="none" stroke="#8b63ed" stroke-width="2" opacity=".5" filter="url(#glow)"/>
+<g transform="translate(820 285)">
+ <path d="M-23 90 Q-20 22 0 0 Q20 22 23 90Z" fill="#080a19" stroke="#6650a3" stroke-width="1.4"/>
+ <path d="M-17 22 Q0 -9 17 22 L12 39 H-12Z" fill="#111027"/>
+ <path d="M-12 91 L-30 150 H30 L12 91Z" fill="#080a19"/>
+ <path d="M-20 50 L-55 125 L-27 112 M20 50 L55 125 L27 112" fill="none" stroke="#0a0d20" stroke-width="13"/>
+ <path d="M-8 30H8" stroke="#c5a6ff" stroke-width="2" filter="url(#glow)"/>
+</g>
+<g fill="#d7c7ff" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+ <text x="105" y="145" font-size="18" letter-spacing="7" opacity=".85">PERSONAL ENGINEERING UNIVERSE</text>
+ <text x="99" y="230" font-size="82" font-weight="700" letter-spacing="2">HAMUDIFR</text>
+ <text x="105" y="278" font-size="20" letter-spacing="8" fill="#a98bff">BUILD  /  AUTOMATE  /  EXPLORE</text>
+ <path d="M105 303H535" stroke="url(#violet)" stroke-width="3"/>
+ <text x="105" y="344" font-size="14" letter-spacing="4" fill="#aab3d0">SOFTWARE ENGINEERING · AI SYSTEMS · CURIOSITY</text>
+</g>
+<circle cx="1440" cy="92" r="3" fill="#bca3ff" filter="url(#glow)"/><circle cx="950" cy="75" r="2" fill="#72dfff" filter="url(#glow)"/>
+<path d="M0 485H1600" stroke="#a879ff" stroke-opacity=".5"/>
 </svg>
