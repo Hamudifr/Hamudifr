@@ -1,9 +1,9 @@
-| ![](https://media.tenor.com/HS7ROwu7AS0AAAAM/satoru-gojo-domain-expansion.gif) | ![](https://media.tenor.com/gjJvZ30kPhEAAAAM/satoru-gojo-jujutsu-kaisen.gif) | ![](https://media.tenor.com/YvkfPK44qv4AAAAM/gojo-satoru.gif) |
+| ![](https://giffiles.alphacoders.com/220/220889.gif) | ![](https://i.pinimg.com/originals/ec/1b/c4/ec1bc4b0ba5dd4896b72198395c71006.gif) | ![](https://i.pinimg.com/originals/7b/8f/61/7b8f61ef123d736ae4a90bcac9b8be38.gif) |
 |---|---|---|
-| ![](https://media1.tenor.com/m/bgo5KWr62H4AAAAC/gojo-gojo-satoru.gif) | ![](https://media.tenor.com/XNNEaoIVE3kAAAAM/gojo-eyes-jjk-shibuya.gif) | ![](https://media1.tenor.com/m/6QqupmFFausAAAAd/satoru-gojo.gif) |
+| ![](https://i.pinimg.com/originals/64/94/51/6494513b774a9c077fd22c8d89294c37.gif) | ![](https://i.pinimg.com/originals/23/85/4b/23854bd6cc711e8decc29cd2ef5f598e.gif) | ![](https://i.pinimg.com/originals/a5/46/63/a5466327439c91d28f889a75846434ea.gif) |
 
 ![](https://images5.alphacoders.com/122/1227609.jpg)
 
-| ![](https://media.tenor.com/9XTmf3tYwwUAAAAM/domain-expansion-limiting-wifi.gif) | ![](https://media.tenor.com/zZOt7alSzAMAAAAM/gojo-gojo-satoru.gif) | ![](https://i.pinimg.com/originals/77/46/86/7746860745a05983a70a0a70eb756d80.gif) |
+| ![](https://i.pinimg.com/originals/3b/f4/30/3bf430ae22943cf5da5879bee88a03e0.gif) | ![](https://i.pinimg.com/originals/77/46/86/7746860745a05983a70a0a70eb756d80.gif) | ![](https://giffiles.alphacoders.com/220/220889.gif) |
 |---|---|---|
-| ![](https://i.pinimg.com/originals/a0/c9/7b/a0c97b801bb61c9c53825e1b80a02f60.gif) | ![](https://media.tenor.com/HS7ROwu7AS0AAAAM/satoru-gojo-domain-expansion.gif) | ![](https://media.tenor.com/gjJvZ30kPhEAAAAM/satoru-gojo-jujutsu-kaisen.gif) |
+| ![](https://i.pinimg.com/originals/ec/1b/c4/ec1bc4b0ba5dd4896b72198395c71006.gif) | ![](https://i.pinimg.com/originals/7b/8f/61/7b8f61ef123d736ae4a90bcac9b8be38.gif) | ![](https://i.pinimg.com/originals/64/94/51/6494513b774a9c077fd22c8d89294c37.gif) |
